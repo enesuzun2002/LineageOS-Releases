@@ -6,7 +6,7 @@
       "id": "02c5219e8d6184b27e1fc78b43b6b84beda2c1db3aa3a421949c8ae15f5668a0",
       "romtype": "unofficial",
       "size": 630623194,
-      "url": "https://example.com/ota-package.zip",
+      "url": "https://github.com/enesuzun2002/lineageos-ota/releases/download/lineage-16.0/LineageOS-9-zero-multitarget-2019-06-14_1138.zip",
       "version": "16.0"
     }
   ]
