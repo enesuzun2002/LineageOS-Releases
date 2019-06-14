@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1560512567,
+      "filename": "LineageOS-9-zero-multitarget-2019-06-14_1138.zip",
+      "id": "02c5219e8d6184b27e1fc78b43b6b84beda2c1db3aa3a421949c8ae15f5668a0",
+      "romtype": "unofficial",
+      "size": 630623194,
+      "url": "https://example.com/ota-package.zip",
+      "version": "16.0"
+    }
+  ]
+}
