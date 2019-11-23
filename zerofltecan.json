@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1571084879,
-      "filename": "LineageOS-9-zero-multitarget-2019-10-14_2027.zip",
-      "id": "f14a341c5f3f46c2ac3d0e24bceaafb6be0e70996da52a9e751ee56bfb55b5df",
+      "datetime": 1574533561,
+      "filename": "LineageOS-9-zero-common-2019-11-23_1818.zip",
+      "id": "d70af076ff76aec17007c13d1f770839fa77e6a0",
       "romtype": "unofficial",
-      "size": 634575349,
-      "url": "https://github.com/enesuzun2002/lineageos-ota/releases/download/lineage-16.0-20191014/LineageOS-9-zero-common-2019-10-14_2027.zip",
+      "size": 658545662,
+      "url": "https://github.com/enesuzun2002/lineageos-ota/releases/download/lineage-16.0-20191123/LineageOS-9-zero-common-2019-11-23_1818.zip",
       "version": "16.0"
     }
   ]
